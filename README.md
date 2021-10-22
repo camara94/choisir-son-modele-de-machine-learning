@@ -12,3 +12,7 @@ Bref il est difficile faire son choix parmi toutes ces possibilités, dans ce do
 Ne travailler qu'avec les modèles que l'on comprend vraiment. Car nous permet d'optimiser et regler ses hyper paramètres et ensuite cela nous permet également d'éviter d'utiliser un modèle dans un context qu'il n'est pas adapté pour ne pas avoir des comportements anormaux sans qu'on ne les comprennent.
 
 Il vaut mieux du bon travail sur un modèle basique que du mauvais travail sur des modèles sofistiqués.
+
+## Conseil #2
+
+Par les modèles que vous comprenez, commencez toujours par implementer le plus simple possible. Car la plupart des modèles sofistiqués consomment beaucoup de ressources et prennent beacoups de temps pour exécuter et complexes à regler.
