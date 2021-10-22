@@ -66,4 +66,7 @@ A l'inversion si on utilise une régression logistique qui repose sur un algorit
 ## NB
 ![image 8](images/8.png)
 
+## Critère #2: Données Structurées / Non Structurées
+Le deuxième critère de selection de modèle répose sur la structure des données.
+
 
