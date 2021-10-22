@@ -28,3 +28,5 @@ Si vous travailliez sur problème de classification commencez par:
 * LogisticRegression
 * LinearSVC
 * KNeighborsClassifier
+  
+Car ce sont des modèles simples, facile à entrainer et facile regler également.
