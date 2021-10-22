@@ -38,3 +38,8 @@ Par exemple choisir un arbre decision plutôt qu'une régression Logistique.
 ## Critère #1: Quantité de données
 
 Le premier critère de choix d'un modèle est la quantité de donée avec laquelle nous travaillons.
+
+### Modèle adaptés aux gros Datasets
+
+![image 1](images/1.png)
+![image 2](images/2.png)
