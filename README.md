@@ -87,3 +87,13 @@ Alors que les données tabulaires
 Lorsqu'on a à faire avec les données structurées il est preferable d'utiliser les algorithmes de **Machine Learning** 
 
 ![image 12](images/12.png)
+
+## Critère #3: Normalité des données
+
+Le troisième critère peut être axé sur la normalité des données pourquoi par ce qu'en **Machine Learning**, il y a deux types de modèles: (Paramétrique et Non-Paramétrique)
+
+![image 13](images/13.png)
+
+Pourquoi est-ce qu'important parce que les modèles paramétriques fonctionnnent très bien avec les données qui suivent les loi de la distribution normale pensez à utiliser les modèles paramétriques sinon dans tous les autre cas utilisez les modèles non-paramétriques ou il faut faire du preprocessing pour obtenir les données normées.
+
+![image 14](images/14.png)
