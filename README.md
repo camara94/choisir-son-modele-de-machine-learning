@@ -43,3 +43,9 @@ Le premier critère de choix d'un modèle est la quantité de donée avec laquel
 
 ![image 1](images/1.png)
 ![image 2](images/2.png)
+
+### Modèle adaptés aux petits Datasets
+
+![image 3](images/3.png)
+
+Qu'est ce qui explique cela, le fonctionnent des algorithmes (d'où le premier conseil #1: ne travaillez qu'avec des algorithme qu'on comprend).
