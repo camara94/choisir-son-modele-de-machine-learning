@@ -69,4 +69,11 @@ A l'inversion si on utilise une régression logistique qui repose sur un algorit
 ## Critère #2: Données Structurées / Non Structurées
 Le deuxième critère de selection de modèle répose sur la structure des données.
 
+## Données Non-Structurées
 
+En effet en machine learning, on considère que les images, les textes, les sons, ... sont des données non-structurées.
+
+![image 9](images/9.png)
+
+Lorsqu'on a à faire avec les données non-structurées il est preferable d'utiliser les algorithmes de **Deep Learning** 
+![image 11](images/11.png)
