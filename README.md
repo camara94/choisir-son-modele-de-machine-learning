@@ -58,3 +58,8 @@ Donc si on a un million de points dans notre dataset ce modèle va pèser très 
 ![image 4](images/4.png)
 ![image 5](images/5.png)
 
+## Régression Logistique
+A l'inversion si on utilise une régression logistique qui repose sur un algorithme de descente de gradient, nous pouvons progressivement fournir nos données à la descente de gradient  par petit batch ce qui permettra d'entrainer notre machine beaucoup plus rapidement pour ensuite obtenir un modèle de régression de régression logistique qui est une simple fonction lineaire donc c'est quelque de beaucoup plus leger que de stocker un million de point dans la memoire d'un **KNeighborsClassifier** .
+![image 7](images/6.png)
+![image 7](images/7.png)
+
