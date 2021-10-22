@@ -34,3 +34,7 @@ Car ce sont des modèles simples, facile à entrainer et facile regler égalemen
 ## Critère de choix du modèle d'un Data Scientiste
 Quelles sont les critères qui permettent à un Data Scientiste de choisir un modèle plutôt qu'un autre.
 Par exemple choisir un arbre decision plutôt qu'une régression Logistique.
+
+## Critère #1: Quantité de données
+
+Le premier critère de choix d'un modèle est la quantité de donée avec laquelle nous travaillons.
