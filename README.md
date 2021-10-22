@@ -1,2 +1,8 @@
-# choisir-son-modele-de-machine-learning
+# Comment Choisir le Modèle Approrié à Un Problème de AI
+
 Le Machine Learning, aussi appelé apprentissage automatique en français, est une forme d’intelligence artificielle permettant aux ordinateurs d’apprendre sans avoir été programmés explicitement à cet effet.
+
+En Machine Learning, il existe une tonne de modèles: La régression logistique, les arbres de décision,
+les support vector machine, les k-nerest neighbors, les random forests, les réseaux de neurones, ....
+
+Bref il est difficile faire son choix parmi toutes ces possibilités, dans ce document nous allons explorer quelques possibibilité de critère de choix de modèle pour selectionner le bon modèle pour son projet en machine learning.
