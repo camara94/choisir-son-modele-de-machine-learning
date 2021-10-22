@@ -103,4 +103,17 @@ Pourquoi est-ce qu'important parce que les modèles paramétriques fonctionnnent
 
 Un quatrième critère à prendre en compte est la quantité des varibles quantitatives et qualitatives dont vous disposez.
 
+### Variables Quantitatives
+Sachez qu'il existe certains types de modèles tel que: les arbres de decision et tout ce qui en decoule qui ne sont pas très efficace avec les données qui contiennent beaucoup de variables quantitatives et surtout lorsque vous observez des relations lineaires entre ces variable quantitatives.
 
+Pour illustrer cela: 
+
+* **Exemple 1:**
+on a un dataset qui contient deux variable quantitatives qui ont des rélation parfaitement lineaire.
+
+    ![image 15](images/15.png)
+Seulement quand on utilise les arbres de décisions ils ne peuvent pas tracer ce genre de droite.
+
+* A la place ils les decoupent les axes de notre plan de manière orthogonale de façon à former des escaliers et c'est justement ça le problème. Ces escaliers ont un fort risque d'avoir de l'**Over-fitting** pourquoi parce que si on ajoute plus de points dans nos données c'est à dire d'autre points venant du testset beaucoup seront mal classés à cause de la forme d'escalier.
+    ![image 16](images/16.png)
+voilà pour quand on a beaucoup de variable quantitative avec des relation lineares on risque fort d'avoir de l'**Over-fitting**
