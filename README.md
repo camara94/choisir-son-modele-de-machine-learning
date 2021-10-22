@@ -77,3 +77,13 @@ En effet en machine learning, on considère que les images, les textes, les sons
 
 Lorsqu'on a à faire avec les données non-structurées il est preferable d'utiliser les algorithmes de **Deep Learning** 
 ![image 11](images/11.png)
+
+## Données Structurées
+
+Alors que les données tabulaires
+
+![image 10](images/10.png)
+
+Lorsqu'on a à faire avec les données structurées il est preferable d'utiliser les algorithmes de **Machine Learning** 
+
+![image 12](images/12.png)
