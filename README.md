@@ -16,3 +16,15 @@ Il vaut mieux du bon travail sur un modèle basique que du mauvais travail sur d
 ## Conseil #2
 
 Par les modèles que vous comprenez, commencez toujours par implementer le plus simple possible. Car la plupart des modèles sofistiqués consomment beaucoup de ressources et prennent beacoups de temps pour exécuter et complexes à regler.
+
+## Exemple
+
+Par exemple si vous travailliez sur un modèle de régression commencez toujour par:
+* LinearRession
+* Lasso
+* Ridge
+  
+Si vous travailliez sur problème de classification commencez par:
+* LogisticRegression
+* LinearSVC
+* KNeighborsClassifier
