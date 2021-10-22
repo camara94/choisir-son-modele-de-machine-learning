@@ -117,3 +117,10 @@ Seulement quand on utilise les arbres de décisions ils ne peuvent pas tracer ce
 * A la place ils les decoupent les axes de notre plan de manière orthogonale de façon à former des escaliers et c'est justement ça le problème. Ces escaliers ont un fort risque d'avoir de l'**Over-fitting** pourquoi parce que si on ajoute plus de points dans nos données c'est à dire d'autre points venant du testset beaucoup seront mal classés à cause de la forme d'escalier.
     ![image 16](images/16.png)
 voilà pour quand on a beaucoup de variable quantitative avec des relation lineares on risque fort d'avoir de l'**Over-fitting**
+
+### Variables Qualitative
+
+A l'inverse lorsqu'on a beaucoups de variables qualitative avec beaucoups de classe, il ne faut pas hésiter à utiliser les arbres de décisions dans ce cas. C'est pour ça qu'ils ont été conçus et c'est pour qu'ils sont performants.
+
+![image 17](images/17.png)
+
