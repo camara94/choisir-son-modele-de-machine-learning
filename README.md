@@ -63,3 +63,7 @@ A l'inversion si on utilise une régression logistique qui repose sur un algorit
 ![image 7](images/6.png)
 ![image 7](images/7.png)
 
+## NB
+![image 8](images/8.png)
+
+
