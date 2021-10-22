@@ -30,3 +30,7 @@ Si vous travailliez sur problème de classification commencez par:
 * KNeighborsClassifier
   
 Car ce sont des modèles simples, facile à entrainer et facile regler également.
+
+## Critère de choix du modèle d'un Data Scientiste
+Quelles sont les critères qui permettent à un Data Scientiste de choisir un modèle plutôt qu'un autre.
+Par exemple choisir un arbre decision plutôt qu'une régression Logistique.
