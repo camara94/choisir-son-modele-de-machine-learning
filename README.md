@@ -126,3 +126,9 @@ A l'inverse lorsqu'on a beaucoups de variables qualitative avec beaucoups de cla
 
 ## Résumé: MIND MAP
 ![image 18](images/18.png)
+
+## En Pratique
+Dans la vraie vie, les données partent dans tous les sens. Parfois on observe les tendances lineares, non-lineares, ... .
+Alors il faut tester tous les modèles possibles et on choisit celui qui aura la meilleure performance.
+![image 20](images/20.png)
+![image 21](images/21.png)
