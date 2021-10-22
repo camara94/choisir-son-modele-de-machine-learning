@@ -97,3 +97,10 @@ Le troisième critère peut être axé sur la normalité des données pourquoi p
 Pourquoi est-ce qu'important parce que les modèles paramétriques fonctionnnent très bien avec les données qui suivent les loi de la distribution normale pensez à utiliser les modèles paramétriques sinon dans tous les autre cas utilisez les modèles non-paramétriques ou il faut faire du preprocessing pour obtenir les données normées.
 
 ![image 14](images/14.png)
+
+
+## Critère #4: Variables Quantitatives / Qualitatives
+
+Un quatrième critère à prendre en compte est la quantité des varibles quantitatives et qualitatives dont vous disposez.
+
+
