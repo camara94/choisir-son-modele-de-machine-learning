@@ -49,3 +49,12 @@ Le premier critère de choix d'un modèle est la quantité de donée avec laquel
 ![image 3](images/3.png)
 
 Qu'est ce qui explique cela, le fonctionnent des algorithmes (d'où le premier conseil #1: ne travaillez qu'avec des algorithme qu'on comprend).
+
+### Par exemple KNeighborsClassifier
+lorsqu'on comprend le fonctionnement d'un **KNeighborsClassifier** alors on sait pertinemment qu'on ne pas lui fournir un million de données car il stocke toutes les données en memoire pour ensuite calculer la distance entre chaque point de notre dataset.
+
+Donc si on a un million de points dans notre dataset ce modèle va pèser très sur memoire amis aussi il va être très lent car il va calculer la distance entre chaque de notre dataset.
+
+![image 4](images/4.png)
+![image 5](images/5.png)
+
