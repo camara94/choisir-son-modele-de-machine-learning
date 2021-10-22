@@ -132,3 +132,8 @@ Dans la vraie vie, les données partent dans tous les sens. Parfois on observe l
 Alors il faut tester tous les modèles possibles et on choisit celui qui aura la meilleure performance.
 ![image 20](images/20.png)
 ![image 21](images/21.png)
+
+## Conclusion
+Voilà donc quatre critères de selection du modèle lorqu'on a des projets de **Machine Learning** et du **Deep Learning** à réaliser.
+
+Bien qu'il en existe d'autres. Alors n'hésitez pas à aller plus loin et chercher à vous armez pour construire un background solide et incontestable.
