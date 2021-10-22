@@ -124,3 +124,5 @@ A l'inverse lorsqu'on a beaucoups de variables qualitative avec beaucoups de cla
 
 ![image 17](images/17.png)
 
+## Résumé: MIND MAP
+![image 18](images/18.png)
